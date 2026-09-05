@@ -1,4 +1,4 @@
-public class SolidRhombus {
+public class    SolidRhombus {
     public static void main(String[] args) {
         int num = 5;
         int spaces = 5;
