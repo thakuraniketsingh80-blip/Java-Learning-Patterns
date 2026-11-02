@@ -1,5 +1,3 @@
-package PatternPrinting.Pattern_Printing;
-
 import java.util.Scanner;
 
 public class AlphabetSquare {
@@ -16,5 +14,6 @@ public class AlphabetSquare {
             System.out.println();
         }
         sc.close();
+        
     }
 }
