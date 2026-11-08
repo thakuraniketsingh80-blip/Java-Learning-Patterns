@@ -19,5 +19,6 @@ public class Spiral {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
